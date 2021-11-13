@@ -1,0 +1,102 @@
+
+hr{
+  margin-top: 0px;
+}
+
+#profile_img{
+  width:15%;
+
+}
+
+.header{
+  text-align: center;
+  background-color:#EAF6F6;
+
+}
+
+
+.img1{
+  position: absolute;
+  bottom:300px;
+  left:200px;
+}
+
+.img2{
+  position: relative;
+  bottom:450px;
+  Right:20px;
+}
+
+/* Css my skills */
+#h2{
+  text-align: center;
+}
+
+.skills-img{
+  width:25%;
+}
+
+.my-skills{
+  text-align: center;
+}
+
+#skill-img-1{
+  float:left;
+}
+
+#skill-img-2{
+float: right;
+}
+
+.skill-text{
+  text-align: left;
+  padding-left: 20px;
+}
+
+.skill-2{
+  clear: left;
+  padding-top: 40px;
+}
+
+.contact-me{
+  text-align: center;
+margin-top: 200px;
+padding-bottom:50px;
+padding-top: 50px;
+background-color: #EAF6F6;
+font-family: sans-serif;
+}
+
+
+
+/* myButton */
+
+.myButton {
+	box-shadow: 3px 4px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.footer{
+  background-color: #66BFBF;
+  text-align: center;
+  color:white;
+}
